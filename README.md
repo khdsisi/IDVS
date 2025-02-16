@@ -1,2 +1,2 @@
-# IDVS
-Interactive Data Visualization
+# Interactive Data Visualization
+
